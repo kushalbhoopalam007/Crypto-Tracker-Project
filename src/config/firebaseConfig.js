@@ -1,5 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyBPk8JNDbqOThOLOWIm5EBmnyQxgd3kX4A",
+  apiKey: "Your API Key",
   authDomain: "crypto-tracker-971e4.firebaseapp.com",
   projectId: "crypto-tracker-971e4",
   storageBucket: "crypto-tracker-971e4.appspot.com",
